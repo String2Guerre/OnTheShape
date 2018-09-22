@@ -1,0 +1,11 @@
+Devlog "On the Shape"
+#####################
+
+Step 1: Faire apparaître de manière aléatoire une forme sur l'écran.
+Step 2: Faire aparaître la forme contrôler par le joueur.
+Step 3: Faire les contrôles de la forme du joueur.
+Step 4: Faire la condition de victoire
+Step 5: Faire le timer.
+Step 6: Faire l'écran titre.
+Step 7: Faire l'écran de game over.
+Step 8: Faire l'écran de victoire.
