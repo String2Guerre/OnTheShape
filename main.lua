@@ -21,7 +21,6 @@ function love.load()
 end
 
 function love.update(dt)
-  time()
   
   if love.keyboard.isDown("z") then
     posYplayer = posYplayer - 1
